@@ -16,6 +16,9 @@ public class DateTimePrinter {
         Scanner scanner = new Scanner(System.in);
 
         // Telur
+        // tepung
+        // gula
+        // susu
 
         System.out.println(today);
         System.out.println(time);
